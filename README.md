@@ -20,3 +20,6 @@ Stash remote update same line
 
 Stash remote update diff line.
 This is a stash change check when remote changes as well.
+
+
+this is a test in advanced.
