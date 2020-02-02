@@ -9,3 +9,5 @@ this is a new line for rebasing.
 THis is a stash commit
 
 master is up by one commit
+
+master is up by second commit.
