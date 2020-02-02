@@ -7,3 +7,5 @@ this is a new commit from master.
 
 this is a new line for rebasing.
 THis is a stash commit
+
+master is up by one commit
