@@ -15,3 +15,7 @@ master is up by second commit.
 Stash is up by one commit
 
 Stash is up by second commit
+
+Stash remote update same line
+
+Stash remote update diff line.
