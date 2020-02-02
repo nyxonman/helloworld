@@ -11,6 +11,7 @@ THis is a stash commit
 master is up by one commit
 
 master is up by second commit.
-Stast is up by one commit
+
+Stash is up by one commit
 
 Stash is up by second commit
