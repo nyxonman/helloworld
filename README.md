@@ -31,3 +31,10 @@ this is rebase -i commit 2 from testStash
 this is rebase -i commit 3 from testStash
 
 this is rebase -i commit 4 from testStash
+
+this is a squash merge test from test Stash
+
+this is a squash merge test 2 from test Stash
+
+this is a squash merge test 2 from test Stash
+
