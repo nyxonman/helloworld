@@ -31,4 +31,4 @@ this is a commit from testStash
 
 this is a second commit from testStash
 
-this a rebase squash test
+this a rebase squash test from master
