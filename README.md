@@ -30,3 +30,5 @@ this is a commit M2 from master
 this is a commit from testStash
 
 this is a second commit from testStash
+
+this a rebase squash test
