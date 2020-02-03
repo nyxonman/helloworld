@@ -22,3 +22,5 @@ Stash remote update diff line.
 This is a stash change check when remote changes as well.
 
 this is rebase -i commit 1 from master
+
+this is rebase -i commit 1 from master
