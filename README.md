@@ -21,19 +21,3 @@ Stash remote update same line
 Stash remote update diff line.
 This is a stash change check when remote changes as well.
 
-
-this is a test in advanced.
-
-this is a commit M1 from master
-
-this is a commit M2 from master
-this is a commit from testStash
-
-this is a second commit from testStash
-
-this a rebase squash test from master
-this is rebase commit test from testStash
-
-this is rebase commit test 2 from testStash
-
-this is rebase commit test 3 from testSTash
