@@ -35,3 +35,5 @@ this a rebase squash test from master
 this is rebase commit test from testStash
 
 this is rebase commit test 2 from testStash
+
+this is rebase commit test 3 from testSTash
