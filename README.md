@@ -38,3 +38,4 @@ this is a squash merge test 2 from test Stash
 
 this is a squash merge test 2 from test Stash
 
+THis is git pull push branch from remote branch
