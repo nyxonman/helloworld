@@ -12,10 +12,4 @@ this is test 2 commit from fixBranch
 
 this is test 3 commit from fixBranch
 
-this is test4 commit from master branch remote
-
-this is test5 commit from master branch remote
-
-Tis is test commit from master for newBranch remote
-
-Tis is test commit 2from master for newBranch remote
+This is a commit from fixbranch local
