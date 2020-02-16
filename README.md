@@ -18,3 +18,4 @@ this is test5 commit from master branch remote
 
 Tis is test commit from master for newBranch remote
 
+Tis is test commit 2from master for newBranch remote
