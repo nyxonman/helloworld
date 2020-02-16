@@ -16,3 +16,5 @@ this is test4 commit from master branch remote
 
 this is test5 commit from master branch remote
 
+Tis is test commit from master for newBranch remote
+
