@@ -19,3 +19,5 @@ this is a commit new from fixbranch local
 this is a commit from new branch local
 
 this is a commit 2 from new branch local
+
+THis is a commit 1 from new branch local
