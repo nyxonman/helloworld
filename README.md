@@ -23,3 +23,5 @@ this is a commit 2 from new branch local
 THis is a commit 1 from new branch local
 
 This is a commit 2 from new branch local
+
+This is a commit 3 from new branch local
